@@ -2,7 +2,7 @@
 
 Title: Horiseon Website Code Refactor  
 Developer: Robyn Arnecke  
-Deployed via Github: https://ribbonanarchy.github.io/01-Unit1-HW/
+Deployed via Github: https://ribbonanarchy.github.io/01-Unit1-HW/   
 Languages: HTML, CSS   
 
 ---
