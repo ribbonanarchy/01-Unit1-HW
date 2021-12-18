@@ -13,11 +13,11 @@ The objective here was to make the already-functioning HTML and CSS for this web
 
 The website features a navigation bar at the top, which should allow the user to jump to links farther down the page without scrolling. 
 
-![This is a picture of the site featuring the navigation bar.](/assets/images/nav-bar-example.png)
+![This is a picture of the site featuring the navigation bar.](/assets/images/nav-bar-example.png?raw=true)
 
 There are two different groups of information, one being the different services provided by Horieson and the other being benefits of the services provided by Horieson. 
 
-![This is a picture of the two groups of information and the way they are differently styled.](/assets/images/info-example.png)
+![This is a picture of the two groups of information and the way they are differently styled.](/assets/images/info-example.png?raw=true)
 
 ---
 
